@@ -6,7 +6,7 @@
 
 # What I'm making
 
-* [Gebetaway - Simple Ethiopian Birr converter app](https://github.com/sirajyesuf/gebetaway)
+* [Gebetaway -Discover Authentic Ethiopian Flavors Near You](https://github.com/sirajyesuf/gebetaway)
 
 
 # Languages & Tools
