@@ -6,7 +6,7 @@
 
 # What I'm making
 
-* [BirrWise - Simple Ethiopian Birr converter app](https://github.com/sirajyesuf/birr-converter)
+* [Gebetaway - Simple Ethiopian Birr converter app](https://github.com/sirajyesuf/gebetaway)
 
 
 # Languages & Tools
